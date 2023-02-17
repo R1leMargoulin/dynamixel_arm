@@ -1,0 +1,12 @@
+[submodule "dynamixel_arm_description"]
+	path = dynamixel_arm_description
+	url = https://github.com/R1leMargoulin/dynamixel_arm_description
+[submodule "dynamixel_arm_moveit"]
+	path = dynamixel_arm_moveit
+	url = https://github.com/R1leMargoulin/dynamixel_arm_moveit
+[submodule "dynamixel_arm_srv"]
+	path = dynamixel_arm_srv
+	url = https://github.com/R1leMargoulin/dynamixel_arm_srv
+[submodule "dynamixel_arm_control"]
+	path = dynamixel_arm_control
+	url = https://github.com/R1leMargoulin/dynamixel_arm_control
