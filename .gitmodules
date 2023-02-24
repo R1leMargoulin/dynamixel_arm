@@ -10,3 +10,6 @@
 [submodule "dynamixel_arm_control"]
 	path = dynamixel_arm_control
 	url = https://github.com/R1leMargoulin/dynamixel_arm_control
+[submodule "dynamixel_arm_msgs"]
+	path = dynamixel_arm_msgs
+	url = https://github.com/R1leMargoulin/dynamixel_arm_msgs.git
