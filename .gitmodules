@@ -1,15 +1,20 @@
 [submodule "dynamixel_arm_description"]
 	path = dynamixel_arm_description
 	url = https://github.com/R1leMargoulin/dynamixel_arm_description
+	branch = ros2-humble
 [submodule "dynamixel_arm_moveit"]
 	path = dynamixel_arm_moveit
 	url = https://github.com/R1leMargoulin/dynamixel_arm_moveit
+	branch = ros2-humble
 [submodule "dynamixel_arm_srv"]
 	path = dynamixel_arm_srv
 	url = https://github.com/R1leMargoulin/dynamixel_arm_srv
+	branch = ros2-humble
 [submodule "dynamixel_arm_control"]
 	path = dynamixel_arm_control
 	url = https://github.com/R1leMargoulin/dynamixel_arm_control
+	branch = ros2-humble
 [submodule "dynamixel_arm_msgs"]
 	path = dynamixel_arm_msgs
 	url = https://github.com/R1leMargoulin/dynamixel_arm_msgs.git
+	branch = ros2-humble
