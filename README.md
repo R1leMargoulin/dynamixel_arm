@@ -4,6 +4,8 @@ ROS/ROS2 control package for open-manipulator-X robot (from Robotis), used for a
 I tried in those packages to remake with the simpliest way as possible the Open-Manipulator-X package from Robotis.
 The aim was to make the same package with ROS(1) and ROS2, changing only the necessary features beetween ROS and ROS2 in order to compare their performances on a real usage on a Raspberry PI.
 
+Please check the [paper I wrote](Examining_the_performance_of_ROS_and_ROS2_for_robotics_industrial_applications.pdf) for more context.
+
 The packages are available with 2 branches:
 - ros-noetic
 - ros2-humble
